@@ -94,3 +94,4 @@ $ wakatime-to-toggl --help
 [code-style-href]: https://github.com/bokub/prettier-config
 [downloads-href]: https://www.npmjs.com/package/wakatime-to-toggl
 [ci-href]: https://travis-ci.org/bokub/wakatime-to-toggl
+
